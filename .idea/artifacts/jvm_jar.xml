@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="jvm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jvm_jar</output-path>
+    <root id="root">
+      <element id="archive" name="jvm.jar">
+        <element id="module-output" name="jvm" />
+      </element>
+    </root>
+  </artifact>
+</component>
