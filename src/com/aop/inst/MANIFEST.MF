@@ -1,0 +1,8 @@
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Agent-Class: com.aop.inst.RuntimeAgent
+Class-Path: /Users/joshuachang/Documents/jvm/src/runtime.jar
+ /Users/joshuachang/.m2/repository/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar
+ /Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/lib/tools.jar
+ /Users/joshuachang/.m2/repository/org/ow2/asm/asm/7.1/asm-7.1.jar
+ /Users/joshuachang/.m2/repository/cglib/cglib/3.3.0/cglib-3.3.0.jar
